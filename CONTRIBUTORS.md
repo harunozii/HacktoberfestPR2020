@@ -34,6 +34,10 @@
 - Bio: Btech Student, Rajasthan Technical University
 - GitHub: [Prateeksha128](https://github.com/Prateeksha128)
 
+Name: Eugene Lezov
+Place: Kaliningrad, Russia
+Bio: I'm iOS Developer
+GitHub: ELezov
 #### Name: Ayush Goyal
 
 - Place: Kota, Rajasthan, India
@@ -448,3 +452,8 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Karawang, West Java, Indonesia
 - Bio: Student
 - GitHub: [rcmiryad123](https://github.com/rcmiryad123)
+
+#### Name: Izis de Sousa 
+Place: Goiânia, Brazil
+Bio: Student
+GitHub: ziiharuno
