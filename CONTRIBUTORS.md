@@ -2345,3 +2345,10 @@ GitHub: [geovanymantilla] (https://github.com/geovanymantilla)
 - Place: Durg, Chhattisgarh, India
 - Bio: B.Tech Student
 - GitHub: [Munish-Soni](https://github.com/Munish-Soni)
+
+
+#### Name: Izis de Sousa
+
+- Place: Goiânia, Goiás, Brazil
+- Bio: Student, Photographer
+- GitHub: [ziiharuno](https:https://github.com/ziiharuno)
